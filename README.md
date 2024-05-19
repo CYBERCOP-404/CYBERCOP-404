@@ -98,10 +98,15 @@ python main.py
 </p>
 
 ----
-<!-- Contribution Snake -->
-<p align="center"><img src="./assets/images/github-contribution-grid-snake.svg"></p>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UtpalCoding&theme=dark" width="100%"/>
+</p>
 
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UtpalCoding&theme=dark" width="100%"/>
+</p>
+
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=UtpalCoding&theme=dark" width="100%"/>
+</p>
+
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UtpalCoding&theme=dark&utcOffset" width="100%"/>
+</p>
 ----
-<!-- Footer -->
-
-<img src="./assets/images/Footer.jpg">
