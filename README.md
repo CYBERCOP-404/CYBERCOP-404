@@ -8,14 +8,6 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/88341460/189536974-e0965a1d-3cc8-4507-a4c8-77aaa778a5c1.gif"></p>
 
-<h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY GF FINDER TOOL 🔐 :
-</b></h3>
-```python
-pip install os
-git clone --depth=1 https://github.com/CYBERCOP-404/CYBER-404.git
-cd CYBER-404
-python g.py
-```
 ----
 <h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY FIRE COMMAND 🔐 :
 </b></h3>
