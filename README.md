@@ -13,6 +13,7 @@
 </b></h3>
 
 ```go
+pip install os
 rm -rf CYBER-404 
 git clone https://github.com/CYBERCOP-404/CYBER-404.git
 cd CYBER-404
