@@ -1,4 +1,4 @@
-<img width=100% title="ANONYMOUS U7P4L" alt="ANONYMOUS U7P4L" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=CYBER-🔰-COP&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
+<img width=100% title="CYBER-COP" alt="CYBER-COP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=CYBER-🔰-COP&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+CYBER+COP;" />
 </p><br>
