@@ -1,5 +1,17 @@
 <img width=100% title="CYBER-COP" alt="CYBER-COP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=CYBER-🔰-COP&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 
+<p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI-SPAMMER AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+
+<h3 align="center">
+
+<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+WELCOME TO  CYBERCOP-404 PROFILE
+<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+
+</h3>
+
+
+- ![Alt text](https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif)
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+CYBER+COP;" />
 </p><br>
 <p align='center'><img src="https://komarev.com/ghpvc/?username=CYBERCOP-404&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="CYBERCOP-404"/>
