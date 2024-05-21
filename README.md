@@ -14,6 +14,21 @@ WELCOME TO  CYBERCOP-404 PROFILE
 - ![Alt text](https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif)
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+CYBER+COP;" />
 </p><br>
+
+<p align="center">
+  <div align="center">
+    <img
+        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=WELCOME+TO+MY+WORLD!+;Bot+Developer+;Front+End+Developer+;Good+Sense+Of+Humour🔑+;Learning+New+Things🧩+;Cyber+Security🎯"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+</div>
+
+<a href="https://hits.sh/github.com/yashu1wwww/"><img alt="Hits" src="https://hits.sh/github.com/yashu1wwww.svg?label=PROFILE%20VIEWS&extraCount=101000&color=e51c1c"/></a>
+
+<img align="center" alt="Coding" width="600" src="https://camo.githubusercontent.com/a6c792917f20519d382e1d73d6efde115c7d3b798cbf16f146ceab907c52eb4d/68747470733a2f2f7777772e616e696d616170702e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f30372f64657369676e65726769662e676966" alt="gif">
+
 <p align='center'><img src="https://komarev.com/ghpvc/?username=CYBERCOP-404&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="CYBERCOP-404"/>
 
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=CYBERCOP-404&data=followers,repositories,stars,commits&theme=viridescent)
@@ -124,3 +139,6 @@ python main.py
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UtpalCoding&theme=dark&utcOffset" width="100%"/>
 </p>
 ----
+Show some ⭐ to some repositories!
+  
+![wave](https://user-images.githubusercontent.com/65462564/225171686-93c2fd4b-ced4-4602-85e4-13deacf4af62.svg)
