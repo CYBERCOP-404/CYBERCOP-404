@@ -34,8 +34,23 @@ WELCOME TO  CYBERCOP-404 PROFILE
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=CYBERCOP-404&data=followers,repositories,stars,commits&theme=viridescent)
 
 <p align="center"><img src="https://user-images.githubusercontent.com/88341460/189536974-e0965a1d-3cc8-4507-a4c8-77aaa778a5c1.gif"></p>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-----
+# 📊 GitHub Stats
+
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=cybercop-404&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/cybercop-404 "Stats")
+</br> 
+<p align="center">  
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashu1wwww&theme=vue" />
+</p>
+</br> 
+   
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cybercop-404&show_icons=true&locale=en&layout=compact" alt="yashu1wwww" /></p>
+
+</div>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY FIRE COMMAND 🔐 :
 </b></h3>
 
