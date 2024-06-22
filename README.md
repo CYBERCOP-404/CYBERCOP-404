@@ -25,7 +25,6 @@ WELCOME TO  CYBERCOP-404 PROFILE
 </p>
 </div>
 
-<a href="https://hits.sh/github.com/yashu1wwww/"><img alt="Hits" src="https://hits.sh/github.com/yashu1wwww.svg?label=PROFILE%20VIEWS&extraCount=101000&color=e51c1c"/></a>
 
 <img align="center" alt="Coding" width="600" src="https://camo.githubusercontent.com/a6c792917f20519d382e1d73d6efde115c7d3b798cbf16f146ceab907c52eb4d/68747470733a2f2f7777772e616e696d616170702e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f30372f64657369676e65726769662e676966" alt="gif">
 
@@ -34,7 +33,7 @@ WELCOME TO  CYBERCOP-404 PROFILE
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=CYBERCOP-404&data=followers,repositories,stars,commits&theme=viridescent)
 
 <p align="center"><img src="https://user-images.githubusercontent.com/88341460/189536974-e0965a1d-3cc8-4507-a4c8-77aaa778a5c1.gif"></p>
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
 
 # 📊 GitHub Stats
 
