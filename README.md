@@ -9,9 +9,6 @@ WELCOME TO  CYBERCOP-404 PROFILE
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
 </h3>
-# TOTAL PROFILE VISITORS :
-
-![Visitor Count](https://profile-counter.glitch.me/{CYBERCOP-404}/count.svg)
 
 - ![Alt text](https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif)
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+CYBER+COP;" />
@@ -28,7 +25,6 @@ WELCOME TO  CYBERCOP-404 PROFILE
 </div>
 
 
-<img align="center" alt="Coding" width="600" src="https://camo.githubusercontent.com/a6c792917f20519d382e1d73d6efde115c7d3b798cbf16f146ceab907c52eb4d/68747470733a2f2f7777772e616e696d616170702e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f30372f64657369676e65726769662e676966" alt="gif">
 
 <p align='center'><img src="https://komarev.com/ghpvc/?username=CYBERCOP-404&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="CYBERCOP-404"/>
 
